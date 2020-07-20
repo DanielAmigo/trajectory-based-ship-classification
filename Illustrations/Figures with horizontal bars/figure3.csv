@@ -1,0 +1,4 @@
+labels;Accuracy;Fmeasure;Gmeasure
+Imbalanced;79,754;0,16981068;0
+RandomUndersampling;69,3465;0,60957277;0
+SMOTE;80,3789;0,37043984;0

@@ -1,0 +1,3 @@
+The data used is the property of the Danish Maritime Authority, made available to anyone at: https://dma.dk/SikkerhedTilSoes/Sejladsinformation/AIS/Sider/default.aspx (link in: Get historical AIS data).
+The paper uses three days from June 2017: dk_csv_jun2017.rar.
+In particular: aisdk_20170625.csv, aisdk_20170626.csv and aisdk_20170627.csv. The rest of datasets are obtained by executing these original data and the code provided.

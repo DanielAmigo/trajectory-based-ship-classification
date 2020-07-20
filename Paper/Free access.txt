@@ -1,0 +1,1 @@
+The paper is available at: https://www.researchgate.net/publication/342723317_Architecture_for_Trajectory-Based_Fishing_Ship_Classification_with_AIS_Data 

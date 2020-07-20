@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generado por Microsoft Visio, SVG Export final.svg fig1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="7.29167in" height="5.20833in" viewBox="0 0 525 375"
+		xml:space="preserve" color-interpolation-filters="sRGB" class="st13">
+	<v:documentProperties v:langID="1033" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#4c78a8;stroke:#000000;stroke-linecap:butt;stroke-width:0.75}
+		.st2 {fill:none;stroke:none;stroke-linecap:butt;stroke-width:0.75}
+		.st3 {fill:#2a3f5f;font-family:Calibri;font-size:0.75em}
+		.st4 {font-size:1em}
+		.st5 {fill:#f58518;stroke:#000000;stroke-linecap:butt;stroke-width:0.75}
+		.st6 {fill:#e45756;stroke:#000000;stroke-linecap:butt;stroke-width:0.75}
+		.st7 {fill:#72b7b2;stroke:#000000;stroke-linecap:butt;stroke-width:0.75}
+		.st8 {fill:none}
+		.st9 {stroke:#2a3f5f;stroke-linecap:butt;stroke-width:1.125}
+		.st10 {fill:#54a24b;stroke:#000000;stroke-linecap:butt;stroke-width:0.75}
+		.st11 {fill:#eeca3b;stroke:#000000;stroke-linecap:butt;stroke-width:0.75}
+		.st12 {fill:#b279a2;stroke:#000000;stroke-linecap:butt;stroke-width:0.75}
+		.st13 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>fig1</title>
+		<v:pageProperties v:drawingScale="1" v:pageScale="1" v:drawingUnits="19" v:shadowOffsetX="9" v:shadowOffsetY="-9"/>
+		<g id="group2-1" v:mID="2" v:groupContext="group">
+			<title>Hoja.2</title>
+		</g>
+		<g id="shape5-2" v:mID="5" v:groupContext="shape" transform="translate(256.875,-193.524)">
+			<title>Hoja.5</title>
+			<path d="M79.25 375 A80.4 80.4 -180 0 0 -0 308.12 L0 268.52 A120 120 0 0 1 118.29 368.34 L79.25 375 Z" class="st1"/>
+		</g>
+		<g id="shape6-4" v:mID="6" v:groupContext="shape" transform="translate(299.481,-277.833)">
+			<title>Hoja.6</title>
+			<desc>Cleaned 22.31%</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)"/>
+			<v:textRect cx="58.5" cy="369.6" width="117.01" height="10.8"/>
+			<rect x="0" y="364.2" width="117" height="10.8" class="st2"/>
+			<text x="43.71" y="366.9" class="st3" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Cleaned<v:newlineChar/><tspan
+						x="45.02" dy="1.2em" class="st4">22.31%</tspan></text>		</g>
+		<g id="shape8-8" v:mID="8" v:groupContext="shape" transform="translate(137.064,-60.7565)">
+			<title>Hoja.8</title>
+			<path d="M119.81 175.36 A80.4 80.4 -180 0 0 110.8 335.65 L106.36 375 A120 120 0 0 1 119.81 135.76 L119.81 175.36 Z"
+					class="st5"/>
+		</g>
+		<g id="shape9-10" v:mID="9" v:groupContext="shape" transform="translate(69.75,-186.323)">
+			<title>Hoja.9</title>
+			<desc>NotConsecutives 48.212%</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)"/>
+			<v:textRect cx="33.4286" cy="369.6" width="66.86" height="10.8"/>
+			<rect x="0" y="364.2" width="66.8572" height="10.8" class="st2"/>
+			<text x="2.67" y="366.9" class="st3" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>NotConsecutives<v:newlineChar/><tspan
+						x="17.67" dy="1.2em" class="st4">48.212%</tspan></text>		</g>
+		<g id="shape11-14" v:mID="11" v:groupContext="shape" transform="translate(243.422,-60.7565)">
+			<title>Hoja.11</title>
+			<path d="M4.44 335.65 A80.4 80.4 -180 0 0 92.87 268.27 L131.99 274.44 A120 120 0 0 1 0 375 L4.44 335.65 Z" class="st6"/>
+		</g>
+		<g id="shape12-16" v:mID="12" v:groupContext="shape" transform="translate(333,-76.9791)">
+			<title>Hoja.12</title>
+			<desc>NullClassValues 24.3%</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)"/>
+			<v:textRect cx="38.7025" cy="369.6" width="77.41" height="10.8"/>
+			<rect x="0" y="364.2" width="77.405" height="10.8" class="st2"/>
+			<text x="10.16" y="366.9" class="st3" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>NullClassValues<v:newlineChar/><tspan
+						x="27.51" dy="1.2em" class="st4">24.3%</tspan></text>		</g>
+		<g id="shape14-20" v:mID="14" v:groupContext="shape" transform="translate(336.295,-161.317)">
+			<title>Hoja.14</title>
+			<path d="M0 368.83 A80.4 80.4 -180 0 0 0.52 364.89 L39.9 369.11 A120 120 0 0 1 39.12 375 L0 368.83 Z" class="st7"/>
+		</g>
+		<g id="shape15-22" v:mID="15" v:groupContext="shape" transform="translate(387,-109.575)">
+			<title>Hoja.15</title>
+			<desc>MovInconsistencies 0.788%</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)"/>
+			<v:textRect cx="36.7105" cy="369.6" width="73.43" height="10.8"/>
+			<rect x="0" y="364.2" width="73.4211" height="10.8" class="st2"/>
+			<text x="0" y="366.9" class="st3" v:langID="1033"><v:paragraph/><v:tabList/>MovInconsistencie<tspan class="st4"
+						v:langID="3082">s<v:newlineChar/></tspan><tspan x="0" dy="1.2em" class="st4" v:langID="3082">       </tspan>0.788%</text>		</g>
+		<g id="shape16-27" v:mID="16" v:groupContext="shape" transform="translate(375.838,-119.546)">
+			<title>Hoja.16</title>
+			<path d="M0 330.29 L0 375 L5.63 375 L0 330.29 Z" class="st8"/>
+			<path d="M0 330.29 L0 375 L5.63 375" class="st9"/>
+		</g>
+		<g id="shape18-30" v:mID="18" v:groupContext="shape" transform="translate(336.817,-167.207)">
+			<title>Hoja.18</title>
+			<path d="M0 370.78 A80.4 80.4 -180 0 0 0.07 370.11 L39.48 374 A120 120 0 0 1 39.37 375 L0 370.78 Z" class="st10"/>
+		</g>
+		<g id="shape19-32" v:mID="19" v:groupContext="shape" transform="translate(387,-130.5)">
+			<title>Hoja.19</title>
+			<desc>NotMovement 0.133%</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)"/>
+			<v:textRect cx="29.25" cy="369.6" width="58.5" height="10.8"/>
+			<rect x="0" y="364.2" width="58.5" height="10.8" class="st2"/>
+			<text x="0" y="366.9" class="st3" v:langID="1033"><v:paragraph/><v:tabList/>NotMovement<v:newlineChar/><tspan x="0"
+						dy="1.2em" class="st4" v:langID="3082">       </tspan>0.133%</text>		</g>
+		<g id="shape20-36" v:mID="20" v:groupContext="shape" transform="translate(376.244,-142.046)">
+			<title>Hoja.20</title>
+			<path d="M0 349.34 L0 375 L5.62 375 L0 349.34 Z" class="st8"/>
+			<path d="M0 349.34 L0 375 L5.62 375" class="st9"/>
+		</g>
+		<g id="shape22-39" v:mID="22" v:groupContext="shape" transform="translate(336.886,-168.204)">
+			<title>Hoja.22</title>
+			<path d="M-0 371.11 A80.4 80.4 -180 0 0 0.28 367.4 L39.83 369.46 A120 120 0 0 1 39.41 375 L0 371.11 Z" class="st11"/>
+		</g>
+		<g id="shape23-41" v:mID="23" v:groupContext="shape" transform="translate(387,-153)">
+			<title>Hoja.23</title>
+			<desc>ExtremeNoise 0.737%</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)"/>
+			<v:textRect cx="31.5" cy="369.6" width="63" height="10.8"/>
+			<rect x="0" y="364.2" width="63" height="10.8" class="st2"/>
+			<text x="0" y="366.9" class="st3" v:langID="1033"><v:paragraph/><v:tabList/>ExtremeNoise<v:newlineChar/><tspan x="0"
+						dy="1.2em" class="st4" v:langID="3082">       </tspan>0.737%</text>		</g>
+		<g id="shape24-45" v:mID="24" v:groupContext="shape" transform="translate(376.535,-164.546)">
+			<title>Hoja.24</title>
+			<path d="M0 368.57 L0 375 L5.62 375 L0 368.57 Z" class="st8"/>
+			<path d="M0 368.57 L0 375 L5.62 375" class="st9"/>
+		</g>
+		<g id="shape26-48" v:mID="26" v:groupContext="shape" transform="translate(336.129,-173.745)">
+			<title>Hoja.26</title>
+			<path d="M1.04 372.94 A80.4 80.4 -180 0 0 -0 355.22 L39.04 348.56 A120 120 0 0 1 40.58 375 L1.04 372.94 Z" class="st12"/>
+		</g>
+		<g id="shape27-50" v:mID="27" v:groupContext="shape" transform="translate(387,-180)">
+			<title>Hoja.27</title>
+			<desc>BaseStations 3.52%</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)"/>
+			<v:textRect cx="28.125" cy="369.6" width="56.25" height="10.8"/>
+			<rect x="0" y="364.2" width="56.25" height="10.8" class="st2"/>
+			<text x="0" y="366.9" class="st3" v:langID="1033"><v:paragraph/><v:tabList/>BaseStations<v:newlineChar/><tspan x="0"
+						dy="1.2em" class="st4" v:langID="3082">       </tspan>3.52%</text>		</g>
+		<g id="group28-54" v:mID="28" v:groupContext="group">
+			<title>Hoja.28</title>
+		</g>
+	</g>
+</svg>

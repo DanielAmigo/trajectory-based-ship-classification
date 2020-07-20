@@ -1,0 +1,7 @@
+Label;ClassifierType;BalancerType;Setting;TestAccuracy;TestFmeasure;MeanAccuracy;MeanFMeasure
+No filtering SVM;Tree;Imbalanced;No filtering;79,6697008;49,2550613;76,09133696;41,60912125
+Reduced SVM;SVM;Imbalanced;Minimum inputs;81,0878;0;81,01062325;1,24842747
+Reduced SVM;SVM;random undersampling;Minimum inputs;75,304;72,623175;72,77112689;40,4095284
+Reduced SVM;SVM;Smote;Minimum inputs;77,9437;67,425069;67,15451633;51,66593954
+Reduced Tree;Tree;Smote;Minimum inputs;80,3789;37,043984;73,64797474;33,07811182
+Complete SVM;SVM;random undersampling;Complete;75,545;57,75690982;67,07253751;48,14122575

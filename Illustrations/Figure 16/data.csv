@@ -1,0 +1,31 @@
+﻿Label;ClassifierType;BalancerType;Setting;Accuracy;Fmeasure
+Complete SVM;SVM;Imbalanced;Complete;81,085;0
+Complete SVM;SVM;random undersampling;Complete;75,545;57,75690982
+Complete SVM;SVM;Smote;Complete;77,9549;56,99447876
+Complete Tree;Tree;Imbalanced;Complete;78,3949;37,72213247
+Complete Tree;Tree;random undersampling;Complete;74,0206;51,43276232
+Complete Tree;Tree;Smote;Complete;79,1319;32,90386521
+No cleaning SVM;SVM;Imbalanced;No cleaning;75,1026;4,837
+No cleaning SVM;SVM;random undersampling;No cleaning;27,3508;50,319
+No cleaning SVM;SVM;Smote;No cleaning;27,3131;50,298
+No cleaning Tree;Tree;Imbalanced;No cleaning;63,6736;46,708
+No cleaning Tree;Tree;random undersampling;No cleaning;51,4929;31,968
+No cleaning Tree;Tree;Smote;No cleaning;63,4332;44,118
+No filtering SVM;SVM;Imbalanced;No filtering;80,9267008;0,00008
+No filtering SVM;SVM;random undersampling;No filtering;44,2753008;40,34136434
+No filtering SVM;SVM;Smote;No filtering;33,1544008;36,05938775
+No filtering Tree;Tree;Imbalanced;No filtering;79,6697008;49,2550613
+No filtering Tree;Tree;random undersampling;No filtering;74,6228008;45,14303796
+No filtering Tree;Tree;Smote;No filtering;61,7959008;44,16260582
+No segment SVM;SVM;Imbalanced;No segment;76,3236008;16,05532615
+No segment SVM;SVM;random undersampling;No segment;69,0223008;59,66360703
+No segment SVM;SVM;Smote;No segment;68,9594008;59,65077186
+No segment Tree;Tree;Imbalanced;No segment;63,8994008;29,68830304
+No segment Tree;Tree;random undersampling;No segment;75,2316008;52,75909438
+No segment Tree;Tree;Smote;No segment;49,7370008;46,52358073
+Reduced SVM;SVM;Imbalanced;Minimum inputs;81,0878;0
+Reduced SVM;SVM;random undersampling;Minimum inputs;75,304;72,623175
+Reduced SVM;SVM;Smote;Minimum inputs;77,9437;67,425069
+Reduced Tree;Tree;Imbalanced;Minimum inputs;79,754;16,981068
+Reduced Tree;Tree;random undersampling;Minimum inputs;69,3465;60,957277
+Reduced Tree;Tree;Smote;Minimum inputs;80,3789;37,043984
